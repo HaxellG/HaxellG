@@ -2,7 +2,7 @@
 
 ## About me 
 
-Software Developer focused on APIs Development. Passionate about AI tools & NLP.
+Software Developer focused on Conversational AI & APIs Development. Passionate about AI tools & NLP.
 
 💼 I am currently part of the [AIChain](https://www.linkedin.com/company/aichain/posts/?feedView=all) team, where I contribute as a Backend Developer for the development of AI-powered digital products.
 
