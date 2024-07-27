@@ -8,7 +8,7 @@ Software Developer focused on Conversational AI & APIs Development. Passionate a
 
 🤖 I have a strong passion for robotics and love working on Arduino and electronics projects
 
-🔬 Learning about Bionic Technology and its 3D design applications.
+🔬 Learning about Bionic Technology.
 
 💪 When I'm away from the keyboard, I enjoy physical exercise and coloring anime illustrations.
 
