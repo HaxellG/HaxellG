@@ -4,7 +4,7 @@
 
 Software Developer. Passionate about AI tools & NLP.
 
-💼 I am currently part of the [AIChain](https://www.linkedin.com/company/aichain/posts/?feedView=all) team, where I contribute as a Backend Developer for the development of AI-powered digital products.
+💼 I am currently part of the [AIChain](https://www.linkedin.com/company/aichain/posts/?feedView=all) team, where I contribute as a Full-Stack Developer for the development of AI-powered digital products.
 
 🤖 I have a strong passion for robotics and love working on Arduino and electronics projects.
 
