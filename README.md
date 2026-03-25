@@ -35,4 +35,4 @@ Electronic Engineering student with an interest in software development, artific
 
 #### Cloud:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white&logoSize=auto)
