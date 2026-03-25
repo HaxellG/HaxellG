@@ -1,10 +1,9 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBjMzNieWs4eWV4b29meG1nNWRzajI0djN1bG1pZmJtZm9kdGt4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mXX9srd5Q0mXPjdvIe/giphy.gif" width="75"/> Hey, nice to see you! My name is Haxell Gomez.
 
 ## About me 
+Electronic Engineering student with an interest in software development, artificial intelligence, and embedded systems. I have participated in the development of technology solutions focused on AI, IoT, and robotics, integrating both software and hardware.
 
-Software Developer. Passionate about AI tools & NLP.
-
-🤖 I have a strong passion for robotics and love working on Arduino and electronics projects.
+🤖 I have a strong passion for robotics competitions and love working on Arduino and electronics projects.
 
 ### Languages and Tools:
 
